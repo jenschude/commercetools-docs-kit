@@ -1,5 +1,11 @@
 # @commercetools-docs/ui-kit
 
+## 15.0.2
+
+### Patch Changes
+
+- [#878](https://github.com/commercetools/commercetools-docs-kit/pull/878) [`f10c62d`](https://github.com/commercetools/commercetools-docs-kit/commit/f10c62d56bcaa99efaa6e9bf753caf76bd9e78e7) Thanks [@TimonRey](https://github.com/TimonRey)! - The searchbox was moved over the index navigation.
+
 ## 15.0.0
 
 ### Patch Changes
